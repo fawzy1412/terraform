@@ -13,7 +13,7 @@
 # }
 
 provider "aws" {
-  profile = "myaws"
+#   profile = "myaws"
   region  = "us-east-1"
 }
 
